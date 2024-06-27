@@ -1,7 +1,7 @@
 # Ben Riggs
 ### riggsben92@gmail.com
 
-### Experience
+## Experience
 **IT Manager - Aegis IT**
 *January 2022 - Present*
 
@@ -13,12 +13,12 @@ Install Server and workstation operating systems and software.
 Perform email migrations.
 ```
 
-## Special Projects
+### Special Projects
 
 ```
 Install redudant failover real time replication servers.
 Migrate local fileshare to Sharepoint in Microsoft 365.
-Work within Microsoft and Google admin portals for security.
+Work within Microsoft and Google admin portals for security needs.
 ```
 
 ## Education
